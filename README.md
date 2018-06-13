@@ -1,4 +1,4 @@
-# Symbols-Async-Iterators-Talk
+# symbols-async-iterators
 
 The goal of this talk to give a high level overview of the following:
 
